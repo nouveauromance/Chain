@@ -1,6 +1,6 @@
 # Aula de Técnicas de Programação (abril/2025)
 
-🔎 Este repositório contém os códigos/atividades desenvolvidas nas aulas de Técnicas de Programação sobre Chain.
+🔎 Este repositório contém os códigos/atividades desenvolvidas nas aulas de Técnicas de Programação sobre Chain of Responsibility.
 
 ## Instalação
 
