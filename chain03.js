@@ -63,7 +63,7 @@ class Log{
     }
 }
 
-// configuração de cadeia de responsabilidade
+// configuração cadeia de responsabilidade
 const loggerConsole = new LoggerConsole();
 const loggerArquivo = new LoggerArquivo();
 const loggerEmail = new LoggerEmail();
